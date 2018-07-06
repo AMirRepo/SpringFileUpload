@@ -1,5 +1,4 @@
 package com.jlcindia.spring.mvc;
-
 import java.io.BufferedOutputStream;
 
 import java.io.File;
@@ -20,6 +19,10 @@ public class FileUploadController {
 		System.out.println("Hi");
 		System.out.println("Hay");
 		 System.out.println("HH");
+		 System.out.println("hhhhhhhhh");
+		 System.out.println("chdvc");
+		 System.out.println("scjsjc");
+		 System.out.println("gcjxbj");
 	}
 	
 	@RequestMapping(value="/up.jlc",method=RequestMethod.POST)
