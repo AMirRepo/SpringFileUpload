@@ -18,11 +18,22 @@ public class FileUploadController {
 		System.out.println("Hello");
 		System.out.println("Hi");
 		System.out.println("Hay");
+
 		 System.out.println("HH");
 		 System.out.println("hhhhhhhhh");
 		 System.out.println("chdvc");
 		 System.out.println("scjsjc");
 		 System.out.println("gcjxbj");
+
+		 System.out.println("HH");
+		 System.out.println("hhhhhhhhh");
+		 System.out.println("chdvc");
+		 System.out.println("scjsjc");
+		 System.out.println("gcjxbj");
+
+		 System.out.println("jcbdshjc");
+
+>>>>>>> refs/heads/master
 	}
 	
 	@RequestMapping(value="/up.jlc",method=RequestMethod.POST)
