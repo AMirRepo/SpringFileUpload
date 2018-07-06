@@ -20,6 +20,7 @@ public class FileUploadController {
 		System.out.println("Hi");
 		System.out.println("Hay");
 		 System.out.println("HH");
+		 System.out.println("jcbdshjc");
 	}
 	
 	@RequestMapping(value="/up.jlc",method=RequestMethod.POST)
