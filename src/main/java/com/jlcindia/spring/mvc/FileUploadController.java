@@ -16,6 +16,7 @@ public class FileUploadController {
 	public	FileUploadController()
 	{
 		System.out.println("FileUploadController--d.c");
+		System.out.println("Hello");
 	}
 	
 	@RequestMapping(value="/up.jlc",method=RequestMethod.POST)
